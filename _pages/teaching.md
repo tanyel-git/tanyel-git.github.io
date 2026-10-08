@@ -2,14 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I teach at Virginia Tech.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Building Construction
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### BC 2114: IT in Design and Construction
+**Semesters:** Fall, Spring
+**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf) · [Course website](https://example.com)
 
-{% include courses.liquid %}
+### BC 4114 / BC 5114G: BIM in Design and Construction
+**Semesters:** Spring
+**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
+
+### BC 4124 / BC 5124G: Digital Construction and Manufacturing
+**Semesters:** Spring
+**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
+
+### BC 5154: Modeling in Design and Construction
+**Semesters:** Spring
+**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
