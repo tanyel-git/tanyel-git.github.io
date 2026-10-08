@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 
-
 profile:
   align: right
   image: tanyel.jpg
