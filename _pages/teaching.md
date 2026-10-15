@@ -12,19 +12,16 @@ nav_order: 4
 ### BC 2114: IT in Design and Construction
 
 **Semesters:** Fall, Spring
-**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf) · [Course website](https://example.com)
+**Resources:** [Course Description](https://catalog.vt.edu/search/?P=BC%202114) 
 
 ### BC 4114 / BC 5114G: BIM in Design and Construction
 
-**Semesters:** Spring
-**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
+**Resources:** [Course Description](https://catalog.vt.edu/search/?P=BC%204114) 
 
 ### BC 4124 / BC 5124G: Digital Construction and Manufacturing
 
-**Semesters:** Spring
-**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
+**Resources:** [Course Description](https://catalog.vt.edu/search/?P=BC%204124) 
 
 ### BC 5154: Modeling in Design and Construction
 
-**Semesters:** Spring
-**Resources:** [Syllabus](/assets/pdf/bc-xxxx-syllabus.pdf)
+**Resources:** [Course Description](https://catalog.vt.edu/search/?P=BC%205154) 
