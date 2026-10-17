@@ -65,39 +65,29 @@ cv:
         end_date: 2007
 
     Awards:
-      - title: Dean's Fellow, College of Engineering
-        date: 2023
-        awarder: Virginia Tech
-        summary: 2023 - 2024
+      - name: Dean's Fellow, College of Engineering, Virginia Tech
+        date: 2023 - 2024
 
-      - title: Diversity Recognition Award, College of Architecture and Urban Studies
+      - name: Diversity Recognition Award, College of Architecture and Urban Studies, Virginia Tech
         date: 2016
-        awarder: Virginia Tech
         summary: For involvement as faculty advisor of Building Women in Construction (BWIC) and commitment to STEM outreach with girls in local elementary and middle schools.
 
-      - title: Faculty Fellowship
+      - name: Faculty Fellowship, Balfour Beatty Construction
         date: 2012
-        awarder: Balfour Beatty Construction
         summary: To observe renovation of OR suites at Walter Reed National Military Medical Center, Washington, DC.
 
-      - title: Academic Exchange, Technical University of Delft
+      - name: Academic Exchange, Technical University of Delft (EU Socrates-Erasmus Program)
         date: 2007
-        awarder: European Union, Socrates-Erasmus Program
 
-      - title: Building Futures Council Graduate Student Conference Sponsorship
+      - name: Building Futures Council Graduate Student Conference Sponsorship
         date: 2005
-        awarder: Building Futures Council
         summary: Paper selected as one of the innovative ideas that will affect the future of the AEC industry (First Conference on the Future of the AEC Industry, Las Vegas, NV).
 
-      - title: Full scholarship for PhD study
-        date: 2003
-        awarder: Carnegie Mellon University
-        summary: 2003 - 2006
+      - name: Full scholarship for PhD study, Carnegie Mellon University
+        date: 2003 - 2006
 
-      - title: Full scholarship for PhD study
-        date: 2000
-        awarder: Turkish Higher Education Council
-        summary: 2000 - 2004
+      - name: Full scholarship for PhD study, Turkish Higher Education Council
+        date: 2000 - 2004
 
     Academic Service:
       - company: "Engineering, Construction and Architectural Management (ECAM)"
@@ -242,19 +232,23 @@ cv:
         position: "Computational Design Student Representative, MS/PhD Committee (elected)"
         start_date: 2002
         end_date: 2003
-    
+
     Book Chapters:
       - title: "Ontology to Support Healthcare Facility Management"
-        releaseDate: 2015
-        publisher: "In R. Issa (Ed.), Ontology in Civil Engineering: A Decade of Research and Development. ASCE Monograph"
-        summary: "Lucas, J., Tanyel Bulbul"
+        authors:
+          - Lucas, J.
+          - Tanyel Bulbul
+        journal: "In R. Issa (Ed.), Ontology in Civil Engineering: A Decade of Research and Development. ASCE Monograph"
+        date: 2015
 
       - title: "Product and Process Models for Building Commissioning"
-        releaseDate: 2012
-        publisher: "In O. Akin et al. (Eds.), Embedded Commissioning of Building Systems: Evaluating Buildings in the Information Age. Artech House, Boston"
-        summary: "Tanyel Bulbul"
+        authors:
+          - Tanyel Bulbul
+        journal: "In O. Akin et al. (Eds.), Embedded Commissioning of Building Systems: Evaluating Buildings in the Information Age. Artech House, Boston"
+        date: 2012
 
       - title: "IFC, STEP: Standards"
-        releaseDate: 2012
-        publisher: "In O. Akin et al. (Eds.), Embedded Commissioning of Building Systems: Evaluating Buildings in the Information Age. Artech House, Boston"
-        summary: "Tanyel Bulbul"
+        authors:
+          - Tanyel Bulbul
+        journal: "In O. Akin et al. (Eds.), Embedded Commissioning of Building Systems: Evaluating Buildings in the Information Age. Artech House, Boston"
+        date: 2012

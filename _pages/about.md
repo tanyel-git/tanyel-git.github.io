@@ -32,4 +32,4 @@ I am an Associate Professor and the Building Construction Program Chair in the <
 
 My research and teaching focus on automation in design and construction. Currently, I am exploring automated assembly systems that use AR head-mounted displays. I am particularly interested in how information is presented to workers, how to evaluate mental workload using electroencephalogram (EEG), and how to support situational awareness in dynamic construction settings. My goal is to influence how the industry uses emerging technologies on the job site and to develop specialized human-system interaction methods for construction.
 
-I hold a PhD in Computational Design from Carnegie Mellon University, and an M.S. and B.S. from Middle East Technical University (Orta Doğu Teknik Üniversitesi), Turkey. 
+I hold a PhD in Computational Design from Carnegie Mellon University, and an M.S. and B.S. from Middle East Technical University (Orta Doğu Teknik Üniversitesi), Turkey.

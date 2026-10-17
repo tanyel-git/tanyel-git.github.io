@@ -8,7 +8,7 @@ middle_name:
 last_name: Bulbul
 email: tanyel@vt.edu
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   d on [A simple, whitespace theme for academics. Base*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -98,9 +98,9 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -246,6 +246,11 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/about_alumni.md
+  - _pages/about_Xiaoying.md
+  - _pages/about_Yingjie.md
+  - _pages/about_Hanwen.md
+  - _pages/about_Yuhang.md
   - purgecss.config.js
   - README.md
   - readme_preview/

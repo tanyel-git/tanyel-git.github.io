@@ -8,4 +8,4 @@ By connecting robotic perception, decision-making, and physical operation, I aim
 
 Outside of research, I enjoy staying active, playing sports, and traveling to experience new places, cultures, and perspectives. Always moving, always exploring, and always curious about what comes next.
 
- [Google Scholar](https://scholar.google.com/citations?hl=en&user=3bPZ6FsAAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3bPZ6FsAAAAJ&view_op=list_works&sortby=pubdate)
